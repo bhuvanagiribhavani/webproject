@@ -223,7 +223,7 @@ respectively while a third pipe can drain the cistern empty in 8 hours. All the 
 were opened together when the cistern was 1/12 full. How long did it take for the cistern
 to be completely full<br />
 A) 2 Hr <br />(B) 1 Hr 45 minutes <br />(C) 2Hr 11 minutes<br /> (D) 2 Hr 10 minutes
-# Chapter 3: Time and Distance 
+## Chapter 3: Time and Distance 
 1. Chakravarty drives a car at a speed of 52 km/h. How much time will the take to cover a
 distance of 364 km?<br />
 (A) 6 hours <br />(B) 4 hours<br /> (C) 5 hours <br />(D) 7 hours
@@ -322,7 +322,7 @@ ratio of their speed?<br />
 After this they take 25 and 49 hours respectively to reach their destination. What is the
 ratio of their speed?<br />
 (A) 5:7 <br />(B) 7:3<br /> (C) 7:5<br /> (D) 3:4
-# Chapter 4:  Train 
+## Chapter 4:  Train 
 1. A train is travelling at a speed of 45 km/hr. Calculate the distance that will be
 covered by the train in 4 seconds.<br />
 (a) 0.8 km <br />(b) 4 km <br />(c) 2.94 km <br />(d) 8 km
@@ -383,7 +383,7 @@ faster train coming from behind, to completely cross the other train is:<br />
 respectively are moving on a parallel track. If they are moving in the same direction,
 then in what time they will cross each other?<br />
 (a) 72 seconds<br /> (b) 132 seconds <br />(c) 192 seconds <br />(d) 252 seconds
-# Chapter 5: Boat and Stream 
+## Chapter 5: Boat and Stream 
 1. The speed of a boat in still water is 14 km/h. It goes 28 km downstream in 1 h 45 min. Find the speed
 of the stream.<br />
 (a) 2 km/h <br />(b) 7 km/h<br /> (c) 12km/h<br /> (d) 16km/h
